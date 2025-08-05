@@ -1,0 +1,27 @@
+# ▶️ Python Bytecode
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# ▶️ Virtual Environment
+venv/
+.env/
+env/
+
+# ▶️ OS-specific files
+.DS_Store
+Thumbs.db
+
+# ▶️ IDE-specific files
+.vscode/
+.idea/
+
+# ▶️ Logs / Temp
+*.log
+*.tmp
+audio/
+
+# ▶️ Token/Key files
+*.key
+*.pem
