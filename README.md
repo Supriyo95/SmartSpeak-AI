@@ -117,6 +117,7 @@ python main.py
 ## 👨‍💻 Created by
 
 **Supriyo Dolui**  
+[![Gmail - supriyo](https://img.shields.io/badge/Gmail-supriyo-red?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335)][reach_gmail]
 Feel free to use, extend, and contribute to this voice-powered AI productivity assistant.
 
 ---
@@ -124,3 +125,6 @@ Feel free to use, extend, and contribute to this voice-powered AI productivity a
 ## 📜 License
 
 MIT License – Use freely with attribution.
+
+<!-- CONTACT LINKS -->
+[reach_gmail]: supriyo2001dolui@gmail.com?subject=GitHub
